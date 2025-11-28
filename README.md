@@ -105,3 +105,7 @@ Developed individually as part of a 6-project evolutionary computation research 
 ⭐ If you use this project
 
 You may cite or reference this GitHub repository in your academic or portfolio submissions.
+
+## 🔗 Portfolio Link  
+Complete 6-project evolution research collection:  
+https://west-route-a3b.notion.site/BioGraph-Evolution-Research-Portfolio-2b69325d1ab1804dab15f731b8af6581?source=copy_link
