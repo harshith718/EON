@@ -1,11 +1,11 @@
-EON — Evolutionary Organism Network
+# EON — Evolutionary Organism Network
 
 EON is a computational evolution engine that simulates how digital organisms behave, mutate, compete, adapt, and evolve over many generations.
 It models organism traits, mutation mechanics, selective pressure, environmental rules, and evolutionary trajectories — giving you a complete evolutionary sandbox.
 
 This project is part of a larger 6-project evolution research portfolio built independently.
 
-📌 Features
+## 📌 Features
 
 Simulates digital organisms with customizable genetic traits
 
@@ -19,7 +19,7 @@ Generates visualizations such as fitness curves
 
 Modular code structure (organism model, evolution engine, simulation runner)
 
-📁 Project Structure
+## 📁 Project Structure
 EON/
 │
 ├── eon_engine.py             # Core evolution engine (mutation, selection, reproduction)
@@ -27,21 +27,21 @@ EON/
 ├── run_eon_simulation.py     # Main script to run full evolutionary simulations
 ├── eon_fitness_curve.png     # Fitness curve visualization output
 
-🚀 How to Run
-1. Install dependencies
+## 🚀 How to Run
+### 1. Install dependencies
 
 EON uses only standard Python libraries.
 Optional (for plotting):
 
 pip install matplotlib
 
-2. Run the simulation
+### 2. Run the simulation
 
 From inside the EON folder:
 
 python run_eon_simulation.py
 
-3. Output
+### 3. Output
 
 After running, you will get:
 
@@ -51,7 +51,7 @@ A fitness curve image saved as eon_fitness_curve.png
 
 Best-performing organism traits printed at the end
 
-🔬 Core Concepts
+## 🔬 Core Concepts
 Digital Organisms
 
 Each organism has parameters such as:
@@ -86,7 +86,7 @@ best fitness
 
 evolutionary trends over time
 
-📦 Use Cases
+## 📦 Use Cases
 
 Evolution research
 
@@ -98,11 +98,11 @@ Trait optimization visualizations
 
 Biology-inspired computing projects
 
-🧠 Author
+## 🧠 Author
 
 Developed individually as part of a 6-project evolutionary computation research portfolio.
 
-⭐ If you use this project
+## ⭐ If you use this project
 
 You may cite or reference this GitHub repository in your academic or portfolio submissions.
 
